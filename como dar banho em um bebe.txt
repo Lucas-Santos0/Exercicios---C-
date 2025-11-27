@@ -1,0 +1,18 @@
+-componentes:BEBE,ROUPA SUJA, ROUPA LIMPA, LIXO, FRAUDA LIMPA,CANECA DE BANHO, CAMA, TALCO,ESPONJA DE BANHO, FRAUDA SUJA, BANHEIRA COM AGUA, FRASCO DE SHAMPOO, SABONETE, TOALHA
+INICIO
+1-pegue o BEBE e o coloque na CAMA
+2-tire a ROUPA SUJA
+3-tire a FRAUDA SUJA
+4-coloque o BEBE na BANHEIRA COM AGUA (com cuidado)
+5-esfregue o BEBE com a ESPONJA DE BANHO e com o SABONETE (com cuidado)
+6-com a CANECA DE BANHO enchague o BEBE
+7-pegue o fFRASCO DE SHAMPOO e derame 4 gotas do FRASCO DE SHAMPOO na cabeça do BEBE
+8-esfregue a cabeça do BEBE (com cuidado)
+9-enchague a cabeça do BEBE com a CANECA DE BANHO (com cuidado)
+10-pegue o BEBE e o seque com a TOALHA (com cuidado)
+11-coloque o BEBE na CAMA
+12-passe o TALCO no bumbum do BEBE
+13-coloque a FRAUDA LIMPA 
+14-coloque a ROUPA LIMPA
+15-jogue a FRAUDA SUJA  no LIXO
+FIM

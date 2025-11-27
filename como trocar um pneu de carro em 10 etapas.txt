@@ -1,0 +1,13 @@
+-componentes:carro,pneu furado, estepe, macaco, calota, parafusos, chave de roda, eixo.
+INICIO
+1-pegue o macaco e o coloque sob carro ao lado do pneu-furado
+2-tire a calota e afrouxe os parafusos do pneu furado usando a chave de roda(gire no sentido anti-horario)
+3-use o macaco para levantar o carro
+4-remova os parafusos totalmente
+5-retire o pneu furado do eixo
+6-coloque o estepe no eixo
+7-coloque os parafusos
+8-aperte os parafusos(gine no sentido horario)
+9-abaixe o carro com o macaco
+10-guarde o macaco e o pneu furado
+FIM
